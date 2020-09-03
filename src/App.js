@@ -11,7 +11,7 @@ class App extends Component {
         <header  class="mdl-layout__header header-color mdl-layout__header--scroll">
           <div class="mdl-layout__header-row">
             {/* <!-- Title --> */}
-            <span class="mdl-layout-title">James Y. Kim</span>
+            <span class="mdl-layout-title" href="/">James Y. Kim</span>
             {/* <!-- Add spacer, to align navigation to the right --> */}
             <div class="mdl-layout-spacer"></div>
             {/* <!-- Navigation --> */}

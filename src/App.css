@@ -1,15 +1,21 @@
 /* Gradient from https://uigradients.com/#Dusk */
 .header-color {
-  background: #de6161;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to left, #2657eb, #de6161);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to left, #2657eb, #de6161); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-  }
+  background: #4568DC;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #B06AB3, #4568DC);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #B06AB3, #4568DC); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
 
 .landing-grid {
-  background: #de6161;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to left, #2657eb, #de6161);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to left, #2657eb, #de6161); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-  }
+  background: #4568DC;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #B06AB3, #4568DC);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #B06AB3, #4568DC); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  text-align: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
 
   .avatar-img {
     height: 250px;

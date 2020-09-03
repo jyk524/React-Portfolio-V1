@@ -10,7 +10,7 @@ class Landing extends Component {
                     <Cell col={12}>
                         {/*  Avatar/Profile Picture */}
                         <img
-                        src="https://i.imgur.com/6jIo4el.jpg"
+                        src="https://i.ibb.co/FzsC9qR/circle-cropped.png"
                         alt="avatar"
                         className="avatar-img"
                         />
