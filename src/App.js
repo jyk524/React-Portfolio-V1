@@ -8,7 +8,7 @@ class App extends Component {
     return (
       // Scrolling Navbar
       <div class="mdl-layout mdl-js-layout">
-        <header class="mdl-layout__header mdl-layout__header--scroll">
+        <header  class="mdl-layout__header header-color mdl-layout__header--scroll">
           <div class="mdl-layout__header-row">
             {/* <!-- Title --> */}
             <span class="mdl-layout-title">James Y. Kim</span>
