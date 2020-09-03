@@ -25,15 +25,15 @@ class Landing extends Component {
                         <div className="social-links">
                             {/* Github */}
                             <a href="https://github.com/jyk524" rel="noopener noreferrer" target="_blank">
-                                <i class="fab fa-github-square"  aria-hidden="true" />
+                                <i class="fa fa-github-square"  aria-hidden="true" />
                             </a>
                             {/* LinkedIn */}
                             <a href="https://www.linkedin.com/in/james-kim-2340a261/" rel="noopener noreferrer" target="_blank">
-                                <i class="fab fa-linkedin-square"  aria-hidden="true" />
+                                <i class="fa fa-linkedin-square"  aria-hidden="true" />
                             </a>
                             {/* Github */}
                             <a href="https://youtube.com/jyk524" rel="noopener noreferrer" target="_blank">
-                                <i class="fab fa-youtube-square"  aria-hidden="true"/>
+                                <i class="fa fa-youtube-square"  aria-hidden="true"/>
                             </a>
 
                         </div>
