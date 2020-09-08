@@ -21,6 +21,7 @@ class Projects extends Component {
 
   // Depending on the tab will show corresponding data
   toggleCategories() {
+      // REACT
     if (this.state.activeTab === 0) {
       return (
         <div className="projects-grid">
@@ -101,6 +102,7 @@ class Projects extends Component {
           </Card>
         </div>
       );
+      // NODEJS
     } else if (this.state.activeTab === 1) {
       return (
         <div className="projects-grid">
@@ -112,18 +114,18 @@ class Projects extends Component {
                 color: "#fff",
                 height: "176px",
                 background:
-                  "url(https://reactjs.org/logo-og.png) center / cover",
+                  "url(https://miro.medium.com/max/3200/1*xdo0UBpyszvD7-7EH4TkIA.png) center / cover",
               }}
             >
-              Employee Directory
+              Readme Generator
             </CardTitle>
             <CardText>
-                An employee directory created in React that has search and sort functionality
+                Node CLI based Readme Generator where users can enter information into a command line to create Readme.md files with badges
             </CardText>
             <CardActions border>
-              <Button colored href='https://github.com/jyk524/Employee-Directory'>Github</Button>
+              <Button colored href='https://github.com/jyk524/Readme-Generator-NodeJS'>Github</Button>
               <Button colored>CodePen</Button>
-              <Button colored href='https://employee-directory-jyk.herokuapp.com/'>LiveDemo</Button>
+              <Button colored href=''>LiveDemo</Button>
             </CardActions>
             <CardMenu style={{ color: "#fff" }}>
               <IconButton name="share" />
@@ -137,7 +139,7 @@ class Projects extends Component {
                 color: "#fff",
                 height: "176px",
                 background:
-                  "url(https://reactjs.org/logo-og.png) center / cover",
+                  "url(https://miro.medium.com/max/3200/1*xdo0UBpyszvD7-7EH4TkIA.png) center / cover",
               }}
             >
               {/* Project # */}
@@ -162,7 +164,7 @@ class Projects extends Component {
                 color: "#fff",
                 height: "176px",
                 background:
-                  "url(https://reactjs.org/logo-og.png) center / cover",
+                  "url(https://miro.medium.com/max/3200/1*xdo0UBpyszvD7-7EH4TkIA.png) center / cover",
               }}
             >
               {/* Project # */}
@@ -181,6 +183,7 @@ class Projects extends Component {
           </Card>
         </div>
       );
+      // MONGODB
     } else if (this.state.activeTab === 2) {
       return (
         <div className="projects-grid">
@@ -192,18 +195,18 @@ class Projects extends Component {
                 color: "#fff",
                 height: "176px",
                 background:
-                  "url(https://reactjs.org/logo-og.png) center / cover",
+                  "url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSXd0U81On5KUNOah0CjqKM1ypJzZoe8RIAUg&usqp=CAU) center / cover",
               }}
             >
-              Employee Directory
+              Workout Tracker
             </CardTitle>
             <CardText>
-                An employee directory created in React that has search and sort functionality
+                Easily Track your workouts and auto generate charts to map your workout data.
             </CardText>
             <CardActions border>
-              <Button colored href='https://github.com/jyk524/Employee-Directory'>Github</Button>
+              <Button colored href='https://github.com/jyk524/Workout-Tracker'>Github</Button>
               <Button colored>CodePen</Button>
-              <Button colored href='https://employee-directory-jyk.herokuapp.com/'>LiveDemo</Button>
+              <Button colored href='https://workout-tracker-jyk.herokuapp.com/'>LiveDemo</Button>
             </CardActions>
             <CardMenu style={{ color: "#fff" }}>
               <IconButton name="share" />
@@ -217,7 +220,7 @@ class Projects extends Component {
                 color: "#fff",
                 height: "176px",
                 background:
-                  "url(https://reactjs.org/logo-og.png) center / cover",
+                  "url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSXd0U81On5KUNOah0CjqKM1ypJzZoe8RIAUg&usqp=CAU) center / cover",
               }}
             >
               {/* Project # */}
@@ -242,7 +245,7 @@ class Projects extends Component {
                 color: "#fff",
                 height: "176px",
                 background:
-                  "url(https://reactjs.org/logo-og.png) center / cover",
+                  "url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSXd0U81On5KUNOah0CjqKM1ypJzZoe8RIAUg&usqp=CAU) center / cover",
               }}
             >
               {/* Project # */}
@@ -261,6 +264,7 @@ class Projects extends Component {
           </Card>
         </div>
       );
+      // Javascript
     } else if (this.state.activeTab === 3) {
       return (
         <div className="projects-grid">
@@ -272,13 +276,13 @@ class Projects extends Component {
                 color: "#fff",
                 height: "176px",
                 background:
-                  "url(https://reactjs.org/logo-og.png) center / cover",
+                  "url(https://www.bram.us/wordpress/wp-content/uploads/2016/06/javascript-logo-banner-560x272.jpg) center / cover",
               }}
             >
-              Employee Directory
+              Password Randomizer
             </CardTitle>
             <CardText>
-                An employee directory created in React that has search and sort functionality
+                A password generator based in Javascript
             </CardText>
             <CardActions border>
               <Button colored href='https://github.com/jyk524/Employee-Directory'>Github</Button>
@@ -297,7 +301,7 @@ class Projects extends Component {
                 color: "#fff",
                 height: "176px",
                 background:
-                  "url(https://reactjs.org/logo-og.png) center / cover",
+                  "url(https://www.bram.us/wordpress/wp-content/uploads/2016/06/javascript-logo-banner-560x272.jpg) center / cover",
               }}
             >
               {/* Project # */}
@@ -322,7 +326,7 @@ class Projects extends Component {
                 color: "#fff",
                 height: "176px",
                 background:
-                  "url(https://reactjs.org/logo-og.png) center / cover",
+                  "url(https://www.bram.us/wordpress/wp-content/uploads/2016/06/javascript-logo-banner-560x272.jpg) center / cover",
               }}
             >
               {/* Project # */}
