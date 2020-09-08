@@ -51,7 +51,7 @@ class Projects extends Component {
             </CardMenu>
           </Card>
 
-          {/* Project 2 */}
+{/*          
           <Card shadow={5} style={{ minWidth: "450", margin: "auto" }}>
             <CardTitle
               style={{
@@ -61,7 +61,7 @@ class Projects extends Component {
                   "url(https://reactjs.org/logo-og.png) center / cover",
               }}
             >
-              {/* Project # */}
+          
             </CardTitle>
             <CardText>
               Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem
@@ -76,7 +76,7 @@ class Projects extends Component {
             </CardMenu>
           </Card>
 
-          {/* Project 3 */}
+      
           <Card shadow={5} style={{ minWidth: "450", margin: "auto" }}>
             <CardTitle
               style={{
@@ -86,7 +86,7 @@ class Projects extends Component {
                   "url(https://reactjs.org/logo-og.png) center / cover",
               }}
             >
-              {/* Project # */}
+              
             </CardTitle>
             <CardText>
               Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem
@@ -99,7 +99,7 @@ class Projects extends Component {
             <CardMenu style={{ color: "#fff" }}>
               <IconButton name="share" />
             </CardMenu>
-          </Card>
+          </Card> */}
         </div>
       );
       // NODEJS
@@ -132,7 +132,7 @@ class Projects extends Component {
             </CardMenu>
           </Card>
 
-          {/* Project 2 */}
+{/*     
           <Card shadow={5} style={{ minWidth: "450", margin: "auto" }}>
             <CardTitle
               style={{
@@ -142,7 +142,7 @@ class Projects extends Component {
                   "url(https://miro.medium.com/max/3200/1*xdo0UBpyszvD7-7EH4TkIA.png) center / cover",
               }}
             >
-              {/* Project # */}
+             
             </CardTitle>
             <CardText>
               Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem
@@ -155,10 +155,10 @@ class Projects extends Component {
             <CardMenu style={{ color: "#fff" }}>
               <IconButton name="share" />
             </CardMenu>
-          </Card>
+          </Card> */}
 
-          {/* Project 3 */}
-          <Card shadow={5} style={{ minWidth: "450", margin: "auto" }}>
+        
+          {/* <Card shadow={5} style={{ minWidth: "450", margin: "auto" }}>
             <CardTitle
               style={{
                 color: "#fff",
@@ -167,7 +167,7 @@ class Projects extends Component {
                   "url(https://miro.medium.com/max/3200/1*xdo0UBpyszvD7-7EH4TkIA.png) center / cover",
               }}
             >
-              {/* Project # */}
+             
             </CardTitle>
             <CardText>
               Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem
@@ -180,7 +180,7 @@ class Projects extends Component {
             <CardMenu style={{ color: "#fff" }}>
               <IconButton name="share" />
             </CardMenu>
-          </Card>
+          </Card> */}
         </div>
       );
       // MONGODB
@@ -212,8 +212,8 @@ class Projects extends Component {
               <IconButton name="share" />
             </CardMenu>
           </Card>
-
-          {/* Project 2 */}
+{/* 
+        
           <Card shadow={5} style={{ minWidth: "450", margin: "auto" }}>
             <CardTitle
               style={{
@@ -223,7 +223,6 @@ class Projects extends Component {
                   "url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSXd0U81On5KUNOah0CjqKM1ypJzZoe8RIAUg&usqp=CAU) center / cover",
               }}
             >
-              {/* Project # */}
             </CardTitle>
             <CardText>
               Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem
@@ -238,7 +237,6 @@ class Projects extends Component {
             </CardMenu>
           </Card>
 
-          {/* Project 3 */}
           <Card shadow={5} style={{ minWidth: "450", margin: "auto" }}>
             <CardTitle
               style={{
@@ -248,7 +246,7 @@ class Projects extends Component {
                   "url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSXd0U81On5KUNOah0CjqKM1ypJzZoe8RIAUg&usqp=CAU) center / cover",
               }}
             >
-              {/* Project # */}
+             
             </CardTitle>
             <CardText>
               Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem
@@ -261,7 +259,7 @@ class Projects extends Component {
             <CardMenu style={{ color: "#fff" }}>
               <IconButton name="share" />
             </CardMenu>
-          </Card>
+          </Card> */}
         </div>
       );
       // Javascript
@@ -294,7 +292,7 @@ class Projects extends Component {
             </CardMenu>
           </Card>
 
-          {/* Project 2 */}
+{/*       
           <Card shadow={5} style={{ minWidth: "450", margin: "auto" }}>
             <CardTitle
               style={{
@@ -304,7 +302,7 @@ class Projects extends Component {
                   "url(https://www.bram.us/wordpress/wp-content/uploads/2016/06/javascript-logo-banner-560x272.jpg) center / cover",
               }}
             >
-              {/* Project # */}
+            
             </CardTitle>
             <CardText>
               Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem
@@ -319,7 +317,7 @@ class Projects extends Component {
             </CardMenu>
           </Card>
 
-          {/* Project 3 */}
+        
           <Card shadow={5} style={{ minWidth: "450", margin: "auto" }}>
             <CardTitle
               style={{
@@ -329,7 +327,7 @@ class Projects extends Component {
                   "url(https://www.bram.us/wordpress/wp-content/uploads/2016/06/javascript-logo-banner-560x272.jpg) center / cover",
               }}
             >
-              {/* Project # */}
+              
             </CardTitle>
             <CardText>
               Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem
@@ -342,7 +340,7 @@ class Projects extends Component {
             <CardMenu style={{ color: "#fff" }}>
               <IconButton name="share" />
             </CardMenu>
-          </Card>
+          </Card> */}
         </div>
       );
     }

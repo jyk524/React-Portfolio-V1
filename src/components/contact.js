@@ -24,20 +24,14 @@ class Contact extends Component {
                             <ul className="demo-list-icon mdl-list">
                             <li className="mdl-list__item">
                                 <span className="mdl-list__item-primary-content">
-                                <i className="material-icons mdl-list__item-icon">person</i>
-                                Phone
+                                <i className="material-icons mdl-list__item-icon">phone</i>
+                                646.509.3547
                             </span>
                             </li>
                             <li className="mdl-list__item">
                                 <span className="mdl-list__item-primary-content">
-                                <i className="material-icons mdl-list__item-icon">person</i>
-                                Email
-                            </span>
-                            </li>
-                            <li className="mdl-list__item">
-                                <span className="mdl-list__item-primary-content">
-                                <i className="material-icons mdl-list__item-icon">person</i>
-                                Github
+                                <i className="material-icons mdl-list__item-icon">mail</i>
+                                Jyk524@gmail.com
                             </span>
                             </li>
                             </ul>
