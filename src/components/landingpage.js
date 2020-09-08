@@ -20,7 +20,7 @@ class Landing extends Component {
 
                         <hr/>
 
-                        <p>HTML/CSS | Bootstrap | JavaScript | jQuery | NodeJS | Express | MySQL | MongoDB | MERN Stack</p>
+                        <p style={{fontFamily: 'Cormorant'}}>HTML/CSS | Bootstrap | JavaScript | jQuery | NodeJS | Express | MySQL | MongoDB | MERN Stack</p>
                         
                         <div className="social-links">
                             {/* Github */}
